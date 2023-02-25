@@ -1,0 +1,12 @@
+[submodule "liba"]
+	path = liba
+	url = https://github.com/cymoon59/liba.git
+[submodule "kaka"]
+	path = kaka
+	url = https://github.com/croquiscom/design-system-android.git
+[submodule "test"]
+	path = test
+	url = https://github.com/croquiscom/camudata.git
+[submodule "ks"]
+	path = ks
+	url = https://github.com/camuHan/ks.git
